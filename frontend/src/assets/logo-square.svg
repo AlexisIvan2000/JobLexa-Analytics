@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t2 d2">
+  <title id="t2">JobLexa monogram</title>
+  <desc id="d2">Monogram JL in circular badge.</desc>
+
+  <defs>
+    <linearGradient id="sqg1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e6f2ff"/>
+      <stop offset="1" stop-color="#cfe8ff"/>
+    </linearGradient>
+    <linearGradient id="sqg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#007bff"/>
+      <stop offset="1" stop-color="#0a2a6c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="160" height="160" rx="20" fill="#f7fbff"/>
+  <circle cx="80" cy="70" r="52" fill="url(#sqg1)"/>
+  <rect x="46" y="32" width="14" height="64" rx="4" fill="url(#sqg2)"/>
+  <path d="M 80 32 h18 a8 8 0 0 1 8 8 v36 a8 8 0 0 1 -8 8 h-22" fill="none" stroke="url(#sqg2)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
+

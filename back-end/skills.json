@@ -1,0 +1,103 @@
+{
+    "programming_languages": [
+        "Python","Java","C","C++","C#","JavaScript","TypeScript","PHP","Ruby","Swift",
+        "Kotlin","Go","Rust","Dart","Scala","Objective-C","R","MATLAB","Perl","Visual Basic .NET",
+        "SQL","Bash","PowerShell","Lua","Julia","Groovy","F#","Haskell","Shell Scripting","Delphi",
+        "Fortran","Assembly Language","SAS","ABAP","Apex","Erlang","COBOL","Ada","Tcl","CoffeeScript",
+        "Elm","Crystal","Nim","VHDL","Verilog","LabVIEW","OpenCL","Solidity","Racket","Q#",
+        "AWK","Smalltalk","Prolog","Scheme","OCaml","Algol","Modula-2","Simula","Icon","Eiffel",
+        "XQuery","PostScript","ActionScript","ColdFusion","Maple","Mathematica","GAMS","BlitzMax","Chapel","Mercury",
+        "J","K","Q","Rebol","REXX","Forth","Factor","Idris","ATS","LiveCode",
+        "OpenCL C","Clojure","D","Scratch","Logo","Alice","Small Basic","Processing","Greenfoot","Blockly",
+        "Tynker","Etoys","Kodu","Hopscotch","Piet","Brainfuck","Whitespace","Befunge"
+    ],
+    "frameworks_libraries": [
+        "React","Angular","Vue.js","Next.js","Nuxt.js","Svelte","Ember.js","Backbone.js","Meteor.js",
+        "Django","Flask","Spring","Spring Boot","Ruby on Rails","Laravel","Symfony","CodeIgniter","CakePHP","Zend Framework",
+        "Express.js","ASP.NET","Node.js","TensorFlow","PyTorch","Keras","Scikit-learn","NumPy","Pandas",
+        "Three.js","D3.js","Chart.js","FastAPI",
+        "Bootstrap","Tailwind CSS","Bulma","Foundation"
+    ],
+    "mobile_development": [
+        "Flutter","React Native","Ionic","Xamarin","Cordova","SwiftUI","Jetpack Compose"
+    ],
+    "cloud_platforms": [
+        "AWS","Microsoft Azure","Google Cloud Platform","IBM Cloud","Oracle Cloud",
+        "DigitalOcean","Heroku","Linode","Vultr","Alibaba Cloud","Salesforce",
+        "OpenStack","Kubernetes","Docker","Terraform","Ansible","Chef","Puppet",
+        "CloudFormation","Serverless Framework","OpenShift","Nomad","Pulumi","SaltStack"
+    ],
+    "databases": [
+        "MySQL","PostgreSQL","MongoDB","SQLite","Redis","Cassandra","Oracle Database",
+        "Microsoft SQL Server","MariaDB","Firebase Realtime Database","Amazon DynamoDB",
+        "Elasticsearch","Neo4j","CouchDB","InfluxDB","HBase","RethinkDB","Hadoop","Spark","Kafka","Flink","Airflow"
+    ],
+    "security": [
+        "SSL","TLS","HTTPS","OAuth","OpenID","SAML","Firewall","WAF","Encryption",
+        "AES","RSA","ECC","SHA-2","HMAC","JWT","VPN","SSH","OWASP","MFA","LDAP","Kerberos",
+        "Penetration Testing","SIEM","IDS/IPS","AWS IAM","Azure AD","GCP IAM","Vault","AWS Secrets Manager","Azure Key Vault",
+        "Cloud Security","Data Privacy","Network Security","Application Security","Identity Management"
+    ],
+    "automatisation_tests": [
+        "Selenium","Cypress","JUnit","TestNG","PyTest","Mocha","Jest","Postman","Load Testing","Performance Testing"
+    ],
+    "scraping_data_extraction": [
+        "Selenium","BeautifulSoup","Scrapy","Puppeteer","Octoparse","ParseHub"
+    ],
+    "api_microservices": [
+        "REST","GraphQL","gRPC","SOAP","Istio","Linkerd","API Gateway","Postman"
+    ],
+    "ai_machine_learning": [
+        "TensorFlow","PyTorch","Keras","Scikit-learn","NumPy","Pandas",
+        "XGBoost","LightGBM","CatBoost","OpenCV","HuggingFace Transformers",
+        "Reinforcement Learning","Deep Learning","NLP","Computer Vision","Data Preprocessing","Model Deployment"
+    ],
+    "operating_systems": [
+        "Linux","Ubuntu","CentOS","Red Hat","Windows Server","macOS","Unix","Android","iOS"
+    ],
+    "devops_tools": [
+        "Docker","Kubernetes","Terraform","Ansible","Chef","Puppet","Vagrant","OpenShift","Nomad",
+        "CI/CD","Jenkins","Travis CI","CircleCI","GitHub Actions","TeamCity","Bamboo","Serverless Framework"
+    ],
+    "monitoring_observability": [
+        "Prometheus","Grafana","ELK Stack","Datadog","New Relic","Zabbix","Splunk","Nagios","CloudWatch"
+    ],
+    "office_tools": [
+        "Microsoft Office","Google Workspace","Slack","Trello","Asana","Jira","Confluence",
+        "Notion","Zoom","Microsoft Teams","Dropbox","Box","Evernote","OneNote"
+    ],
+    "tools_technologies": [
+        "Git","GitHub","GitLab","Bitbucket",
+        "Webpack","Babel","ESLint","Prettier","Markdown",
+        "Jupyter Notebook","Google Colab","Figma","Adobe XD","Sketch"
+    ],
+    "soft_skills": [
+        "Esprit d'équipe","Teamwork",
+        "Gestion du temps","Time management",
+        "Communication","Communication",
+        "Résolution de problèmes","Problem solving",
+        "Créativité","Creativity",
+        "Adaptabilité","Adaptability",
+        "Leadership","Leadership",
+        "Pensée critique","Critical thinking",
+        "Collaboration","Collaboration",
+        "Gestion des priorités","Priority management",
+        "Motivation","Motivation",
+        "Autonomie","Autonomy",
+        "Curiosité / Apprentissage continu","Curiosity / Continuous learning",
+        "Empathie","Empathy",
+        "Capacité d'analyse","Analytical skills",
+        "Flexibilité","Flexibility",
+        "Gestion de conflits","Conflict management",
+        "Prise de décision","Decision making",
+        "Gestion de projet","Project management",
+        "Esprit d’initiative","Initiative",
+        "Résilience","Resilience",
+        "Négociation","Negotiation",
+        "Networking","Networking",
+        "Orientation résultats","Results-oriented",
+        "Sens de l’organisation","Organizational skills",
+        "Capacité à prioriser","Prioritization",
+        "Curiosité technique","Technical curiosity"
+    ]
+}
