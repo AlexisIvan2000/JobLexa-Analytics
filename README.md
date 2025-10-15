@@ -21,5 +21,5 @@ L'application est est conçue autour de deux étapes principales à forte valeur
 
 
 ## Apercu
-![JobLexa Demo](https://drive.google.com/file/d/1X1dfcXIZArvEaELx8D0zq9OD6VVy8CDs/view?usp=sharing)
+https://drive.google.com/file/d/1X1dfcXIZArvEaELx8D0zq9OD6VVy8CDs/view?usp=sharing
 
