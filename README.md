@@ -19,3 +19,7 @@ L'application est est conçue autour de deux étapes principales à forte valeur
 **Sécurité	JWT / Passlib / OAuthlib**	Gestion de l'authentification sans état (stateless) et des tokens d'accès.
 **Validation	Pydantic**	Validation automatique des données entrantes et sortantes (Data Validation).
 
+
+## Apercu
+![JobLexa Demo](https://drive.google.com/file/d/1X1dfcXIZArvEaELx8D0zq9OD6VVy8CDs/view?usp=sharing)
+
