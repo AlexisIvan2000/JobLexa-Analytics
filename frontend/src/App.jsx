@@ -1,9 +1,10 @@
-import Home from "./components/Home";
-import About from "./components/About";
-import Signin from "./components/Signin";
-import Signup from "./components/Signup";
-import Dashboard from "./components/Dashboard";
+import Home from "../pages/Home";
+import About from "../pages/About";
+import Signin from "../pages/Signin";
+import Signup from "../pages/Signup";
+import Dashboard from "../pages/Dashboard";
 import OAuthCallback from "./components/OAuthCallback";
+import React from "react";
 import {
   BrowserRouter as Router,
   Routes,
