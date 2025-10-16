@@ -1,8 +1,8 @@
-import Home from "../pages/Home";
-import About from "../pages/About";
-import Signin from "../pages/Signin";
-import Signup from "../pages/Signup";
-import Dashboard from "../pages/Dashboard";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Signin from "./pages/Signin";
+import Signup from "./pages/Signup";
+import Dashboard from "./pages/Dashboard";
 import OAuthCallback from "./components/OAuthCallback";
 import React from "react";
 import {
